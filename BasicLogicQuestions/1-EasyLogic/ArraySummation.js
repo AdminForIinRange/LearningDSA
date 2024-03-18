@@ -9,5 +9,3 @@ const ArrSum = (Arr) => {
 };
 
 ArrSum([1, 2, 3]);
-
-
